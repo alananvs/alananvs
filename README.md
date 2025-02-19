@@ -15,7 +15,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=Ruby)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=1572B6)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=B65915)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 **Utilidades**
@@ -39,6 +39,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/alananeves?style=flat-square&logo=Linkedin&logoColor=white&link=alananvs)](https://www.linkedin.com/in/alananeves/)
+[![Linkedin](https://img.shields.io/badge/alananeves?style=flat-square&logo=Linkedin&logoColor=white&link=mailto:SEU-LINKEDIN)](https://www.linkedin.com/in/alananeves/)
 [![Gmail Badge](https://img.shields.io/badge/alanadamasceno6@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](alanadamasceno6@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/alananvs)
