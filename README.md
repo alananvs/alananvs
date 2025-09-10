@@ -4,8 +4,8 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Ciência da Computação na UDF.
-- 💼 Trabalhando como estagiária de desenvolvimneto no Banco do Brasil.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 💼 Trabalhando como estagiária de desenvolvimneto na Singular GovTech.
+- 🌱 Aprendendo mais sobre Java.
 
 ## Minhas Skills
 
