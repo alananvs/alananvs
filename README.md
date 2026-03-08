@@ -40,6 +40,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/alananeves?style=flat-square&logo=Linkedin&logoColor=white&link=mailto:SEU-LINKEDIN)](https://www.linkedin.com/in/alananeves/)
-[![Gmail Badge](https://img.shields.io/badge/alanadamasceno6@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](alanadamasceno6@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/alananvs)
+![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alananeves/)
+![Gmail Badge](https://img.shields.io/badge/alanadamasceno6@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alanadamasceno6@gmail.com)
+![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)
