@@ -32,12 +32,7 @@
 
 <br/>
 
-<a href="https://github.com/alananvs" title="Perfil da Alana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alananvs&theme=dracula&show_icons=true" />
-</a>
-
 ## Onde me encontrar
 
 ![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alananeves/)
 ![Gmail Badge](https://img.shields.io/badge/alanadamasceno6@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alanadamasceno6@gmail.com)
-![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)
