@@ -1,11 +1,8 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Ciência da Computação na UDF.
-- 💼 Trabalhando como estagiária de desenvolvimneto na Singular GovTech.
-- 🌱 Aprendendo mais sobre Java.
+- 🤔 Engenheira de Software Junior
+- 💼 Estágiaria em Desenvolvimento de Software
+- 🌱 Me desenvolvendo em Backend focada no ecossistema Java (Spring Boot, Hibernate) e arquitetura de microsserviços.
 
 ## Minhas Skills
 
@@ -18,6 +15,7 @@
 ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=Ruby&logoColor=red)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=B65915)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 
 **Utilidades**
 
